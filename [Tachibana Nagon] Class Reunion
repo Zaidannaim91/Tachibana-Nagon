@@ -1,0 +1,25 @@
+{
+   "title":"[Tachibana Nagon] Class Reunion",
+   "description":"",
+   "author":"Tachibana Nagon",
+   "artist":"Tachibana Nagon",
+   "cover":"https://i.imgur.com/GPlKBf5.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/oyKfrfD"
+         },
+         "last_updated":1624606143,
+         "title":"Class Reunion",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kEkeK9r"
+         },
+         "last_updated":1624606143,
+         "title":"Class Reunion ~Afer~",
+         "volume":"2"
+      }
+   }
+}
